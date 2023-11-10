@@ -64,6 +64,7 @@ public class Exam{
 
 ### 수평선(Horizontal Rule)
 각 기호를 3개 이상 입력하면 된다.
+
 ---
 (hyphen)
 ***
