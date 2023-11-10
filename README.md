@@ -35,3 +35,15 @@
 [![구글](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
 ![강아지](./asset/dog.jpg)
+
+### 인라인(inilne) 코드 강조
+`어퍼스트로피 1개`는 `인라인 코드 강조`를 의미한다.
+
+### 블록(block) 코드 강조
+```java
+public class Exam{
+   public static void main(String[] arg){
+      System.out.println("exam");
+   }
+}
+```
