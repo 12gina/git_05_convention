@@ -37,9 +37,10 @@
 ![강아지](./asset/dog.jpg)
 
 ### 인라인(inilne) 코드 강조
-`어퍼스트로피 1개`는 `인라인 코드 강조`를 의미한다.
+`어퍼스트로피 1개`로 묶는 것은 `인라인 코드 강조`를 의미한다.
 
 ### 블록(block) 코드 강조
+`어퍼스트로피 3개`로 묶는 것은 블록 코드 강조를 의미한다.
 ```java
 public class Exam{
    public static void main(String[] arg){
